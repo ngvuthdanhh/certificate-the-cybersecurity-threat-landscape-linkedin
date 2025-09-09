@@ -1,10 +1,7 @@
 # 🛡️ The Cybersecurity Threat Landscape – LinkedIn Learning  
 
-![Course](https://img.shields.io/badge/LinkedIn-Learning-blue?style=flat-square&logo=linkedin)  
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square&logo=verizon)  
-![Type](https://img.shields.io/badge/Type-Learning%20Project-orange?style=flat-square&logo=notion)  
-![Focus](https://img.shields.io/badge/Focus-Threat%20Landscape-informational?style=flat-square&logo=defender)  
-![Maintainer](https://img.shields.io/badge/Maintainer-Thành%20Danh-blueviolet?style=flat-square&logo=github)  
+![Course](https://img.shields.io/badge/LinkedIn-Learning-blue?style=flat-square&logo=linkedin) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square&logo=verizon) ![Type](https://img.shields.io/badge/Type-Learning%20Project-orange?style=flat-square&logo=notion) ![Focus](https://img.shields.io/badge/Focus-Threat%20Landscape-informational?style=flat-square&logo=defender) ![Maintainer](https://img.shields.io/badge/Maintainer-Thành%20Danh-blueviolet?style=flat-square&logo=github)
+
 
 This repository contains **notes, labs, projects, case studies, and certificate of completion** for the *The Cybersecurity Threat Landscape* course on **LinkedIn Learning**.  
 The program explores the **evolving threat landscape, attack vectors, vulnerabilities, risk assessment, defense strategies, and future challenges in cybersecurity**.  
